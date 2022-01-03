@@ -1,0 +1,192 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  overflow-x: hidden;
+
+}
+
+
+
+
+.row{
+  padding-bottom: 5%;
+}
+
+
+.simbolo {
+ align-content: center;
+ padding-left: 30%;
+padding-right: 30%;
+/*padding-bottom: 10%;*/
+  width:100%;
+
+}
+
+.titlekps {
+  color: #000000;
+  font-family: 'Sacramento', cursive;
+  font-size: 300%;
+  font-weight: bold;
+  text-align: center;
+}
+
+.titlesenseis {
+  color: #000000;
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
+  text-align: center;
+  /*padding-bottom: 10%;*/
+}
+
+.SenseiJoana {
+float: right;
+}
+
+.SenseiJoao {
+  float: left;
+
+}
+
+.nome1 {
+  float: inherit;
+  letter-spacing: 1px;
+  color: #000000;
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+  padding-top:60px;
+}
+
+.nome2 {
+  letter-spacing: 2px;
+  color: #000000;
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+    padding-top:60px;
+}
+
+.profile {
+  text-align: center;
+  letter-spacing: 2px;
+  line-height: 45px;
+  /*padding-bottom: 10%;*/
+}
+
+.kpsimage {
+width:  100%;
+padding-left: 14%;
+padding-right: 11%;
+}
+
+.titleassociacao {
+  letter-spacing: 2px;
+  color: #000000;
+  font-size: 250%;
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+  padding-top: 4%;
+
+}
+
+.kpsdescription {
+  text-align: center;
+  letter-spacing: 2px;
+  line-height: 2;
+ padding-top: 4%;
+}
+
+.linkkps {
+  color: #be2132;
+    font-size: 140%;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    padding-top: 5%;
+    /*padding-bottom: 10%;*/
+}
+
+.linkkps:hover {
+  color: #040303;
+}
+
+.horario {
+  letter-spacing: 2px;
+  color: #000000;
+  font-family: 'Sacramento', cursive;
+  font-size: 300%;
+  text-align: center;
+  }
+
+
+.Benjamins {
+  color: #000000;
+  font-family: 'Sacramento', cursive;
+  font-size: 180%;
+  letter-spacing: 2px;
+  text-align: right;
+
+
+}
+
+.Infantil {
+color: #000000;
+  font-family: 'Sacramento', cursive;
+  font-size: 180%;
+  letter-spacing: 2px;
+  text-align: center;
+/*  padding-top: 20%;*/
+
+}
+
+.Adultos {
+  color: #000000;
+  font-family: 'Sacramento', cursive;
+  font-size: 180%;
+  letter-spacing: 2px;
+  text-align: left;
+/*  padding-top: 20%;*/
+
+}
+
+
+.ondeestamos{
+  color: #000000;
+  font-family: 'Sacramento', cursive;
+font-size: 150%;
+letter-spacing: 2px;
+font-weight: bold;
+text-align: center;
+
+}
+.imageclube{
+width: 40%;
+float: left;
+
+}
+.map{
+width: 35%;
+height: 90%;
+float: left;
+
+}
+
+/* Footer Section */
+
+.red-section{
+  background-color: #be2132;
+padding: 2%;
+}
+
+.Copyright{
+  color: #000000;
+font-family: 'Sacramento', cursive;
+font-size: 1.4rem;
+letter-spacing: 2px;
+font-weight: bold;
+text-align: center;
+
+}
+/*para tornar a pagina responsive*/
+@media screen (max-width: 768px) {
+
+  
+
+}
